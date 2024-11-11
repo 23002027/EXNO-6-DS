@@ -1,4 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+### NAME:ABINAYA A
+### REGNO:212223040003
 
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
@@ -186,7 +188,7 @@ sns.kdeplot(data=mart,x='PassengerId',hue='Survived',multiple='stack')
 ![image](https://github.com/user-attachments/assets/0378fdf7-9f3e-4606-9fed-3da6fac5f13a)
 ```
 sns.kdeplot(data=mart,x='PassengerId',y='Survived')
-``
+```
 ![image](https://github.com/user-attachments/assets/64a09f16-d0f1-4a87-8ab7-0c16297e52c8)
 ```
 data = np.random.randint(low = 1, high = 100, size = (10,10))
@@ -196,7 +198,8 @@ hm=sns.heatmap(data=data,annot=True)
 ```
 hm=sns.heatmap(data=data)
 ```
-![Uploading image.png…]()
-```
+![image](https://github.com/user-attachments/assets/91a4e8f1-bb8b-4c6e-b2a6-93a98d0a25a1)
+
 # Result:
+
  Include your result here
